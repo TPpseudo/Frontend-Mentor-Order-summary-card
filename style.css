@@ -14,7 +14,7 @@ body{
     height: 100vh;
     font-family: 'Red Hat Display', sans-serif;
     font-size: 1rem;
-    background-image: url(/images/pattern-background-mobile.svg);
+    background-image: url(images/pattern-background-mobile.svg);
     background-size: auto;
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
@@ -145,7 +145,7 @@ body{
 
 @media (min-width: 799px) {
     body{
-        background-image: url(/images/pattern-background-desktop.svg);
+        background-image: url(images/pattern-background-desktop.svg);
         background-size: contain;
         background-repeat: no-repeat;
         background-color: hsl(225, 100%, 94%);
